@@ -1,1 +1,1 @@
-
+[![Laravel](https://github.com/Joao-Bittencourt/candyShopL/actions/workflows/laravel.yml/badge.svg)](https://github.com/Joao-Bittencourt/candyShopL/actions/workflows/laravel.yml)
