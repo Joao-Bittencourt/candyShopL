@@ -20,7 +20,7 @@ Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('in
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Route::resource('/categories', App\Http\Controllers\CategoriesController::class);
-Route::resource('/products', App\Http\Controllers\CategoriesController::class);
+Route::resource('/products', App\Http\Controllers\ProductsController::class);
 
 //Route::resource('/categories', App\Http\Controllers\CategoriesController::class);
 

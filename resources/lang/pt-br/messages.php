@@ -57,6 +57,7 @@ return [
     'contact' => 'Contato',
 
     // categories CRUD
+    'category' => 'Categoria',
     'categories' => 'Categorias',
     'edit_category' => 'Editar Categoria',
     'create_category' => 'Criar Categoria',
@@ -64,6 +65,7 @@ return [
 
     
     // Products CRUD
+    'product' => 'Produto',
     'products' => 'Produtos',
     'edit_product' => 'Editar Produto',
     'create_product' => 'Criar Produto',
@@ -76,4 +78,7 @@ return [
     'purchase_price' => 'Preço de Compra',
     'unit' => 'Unidade',
     'minimum_quantity_in_stock' => 'Quantidade Mínima em Estoque',
+    'product_name_placeholder' => 'Nome do produto',
+    'product_price_placeholder' => 'R$ 0,00',
+    'product_description_placeholder' => 'Informe a descrição',
 ];
